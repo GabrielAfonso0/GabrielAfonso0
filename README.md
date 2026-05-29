@@ -1,4 +1,4 @@
-# # 💻 | Gabriel Afonso
+#  💻 | Gabriel Afonso
 
 **`Desenvolvedor em formação | ADS | Python · Java · SQL`**
 
