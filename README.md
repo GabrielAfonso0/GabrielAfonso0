@@ -1,6 +1,6 @@
 # # 💻 | Gabriel Afonso
 
-**`Desenvolvedor em formação | ADS | Python · Java · JavaScript`**
+**`Desenvolvedor em formação | ADS | Python · Java · SQL`**
 
 #### Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu e estou em busca de estágio na área de TI, com foco em Desenvolvimento de Sistemas, Engenharia de Dados e Suporte Técnico. Desenvolvo projetos com **Python** (automação, análise de dados e APIs com **FastAPI**), **Java** (Swing, POO e **Spring Boot**), aplicações web com **HTML**, **CSS** e **JavaScript**, além de banco de dados com **MySQL** e **PostgreSQL** — sempre buscando resolver problemas reais com código limpo e eficiente.
 
