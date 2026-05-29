@@ -16,6 +16,8 @@
 <img align="left" alt="HTML5" width="36px" src="https://skillicons.dev/icons?i=html" />
 <img align="left" alt="CSS3" width="36px" src="https://skillicons.dev/icons?i=css" />
 <img align="left" alt="MySQL" width="36px" src="https://skillicons.dev/icons?i=mysql" />
+
+
 ### 📌 Projetos em Destaque
 
 **🦷 SorrisoPerfeito — Sistema de Gestão Odontológica**
