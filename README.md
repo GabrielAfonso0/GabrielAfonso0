@@ -1,54 +1,41 @@
-<!-- Cabeçalho Centralizado com GIF/Foto e Apresentação -->
-<div align="center">
-  <h1>Olá, eu sou o [Seu Nome] 👋</h1>
-  <p>Desenvolvedor Full Stack | Estudante de ADS</p>
-</div>
+# 💻 | Gabriel Afonso
 
-<hr>
+**`Desenvolvedor em formação | ADS | Python · Java · JavaScript`**
 
-<!-- Organização em duas colunas (Sobre mim e Estatísticas) -->
-<div align="center">
-  <table border="0">
-    <tr>
-      <!-- Coluna 1: Sobre Mim -->
-      <td valign="top" width="50%">
-        <h3>👨‍💻 Sobre Mim</h3>
-        <p align="left">
-          - 🎓 Atualmente cursando o 4º semestre de <b>Análise e Desenvolvimento de Sistemas</b>.<br>
-          - 🛠️ Focado em desenvolvimento <b>Full Stack</b>, construindo aplicações web e APIs robustas.<br>
-          - 🤖 Interessado em automação, inteligência artificial e otimização de processos de dados.<br>
-          - ⚡ Buscando sempre evoluir na stack de programação e arquitetura de software.
-        </p>
-        <br>
-        <h3>🛠️ Tecnologias & Ferramentas</h3>
-        <!-- Badges de Tecnologias (Exemplos) -->
-        <p align="left">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-          <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-          <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        </p>
-      </td>
-      
-      <!-- Coluna 2: Estatísticas do GitHub -->
-      <td valign="top" width="50%">
-        <h3>📊 Minhas Estatísticas</h3>
-        <!-- Card de Estatísticas Gerais (Troque SEU_USUARIO pelo seu username do GitHub) -->
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <br><br>
-        <!-- Card de Linguagens Mais Usadas -->
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
-      </td>
-    </tr>
-  </table>
-</div>
+#### Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu e estou em busca de estágio na área de TI, com foco em Desenvolvimento de Sistemas, Engenharia de Dados e Suporte Técnico. Desenvolvo projetos com Python (automação e análise de dados), Java (Swing, POO) e aplicações web com HTML, CSS e JavaScript — sempre buscando resolver problemas reais com código limpo e eficiente.
 
-<hr>
+[![Gmail Badge](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:seuemail@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/seulinkedin)
 
-<!-- Rodapé / Redes Sociais -->
-<div align="center">
-  <h3>📬 Conecte-se comigo</h3>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img align="left" alt="Python" width="36px" src="https://skillicons.dev/icons?i=python" />
+<img align="left" alt="Java" width="36px" src="https://skillicons.dev/icons?i=java" />
+<img align="left" alt="JavaScript" width="36px" src="https://skillicons.dev/icons?i=js" />
+<img align="left" alt="HTML5" width="36px" src="https://skillicons.dev/icons?i=html" />
+<img align="left" alt="CSS3" width="36px" src="https://skillicons.dev/icons?i=css" />
+<img align="left" alt="MySQL" width="36px" src="https://skillicons.dev/icons?i=mysql" />
+<img align="left" alt="Git" width="36px" src="https://skillicons.dev/icons?i=git" />
+<img align="left" alt="VS Code" width="36px" src="https://skillicons.dev/icons?i=vscode" />
+
+<br clear="left"/>
+
+---
+
+### 📌 Projetos em Destaque
+
+**🦷 SorrisoPerfeito — Sistema de Gestão Odontológica**
+> Sistema desktop desenvolvido em **Java (Swing)** com banco de dados **MySQL**, voltado para gerenciamento de cadastros, agendamentos e históricos médicos. Implementação completa de CRUD com foco em UX intuitiva.
+
+**📊 Automação e Análise de Dados**
+> Scripts em **Python** com **Pandas** para manipulação de arquivos e automação de tarefas repetitivas, com foco em eficiência operacional.
+
+---
+
+### 📊 Estatísticas
+
+![Gabriel's GitHub Stats](https://github-readme-stats-fork.vercel.app/api?username=GabrielAfonso0&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats-fork.vercel.app/api/top-langs/?username=GabrielAfonso0&theme=tokyonight&hide_border=true&layout=compact)
