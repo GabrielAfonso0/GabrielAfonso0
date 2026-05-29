@@ -5,7 +5,7 @@
 #### Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu e estou em busca de estágio na área de TI, com foco em Desenvolvimento de Sistemas, Engenharia de Dados e Suporte Técnico. Desenvolvo projetos com **Python** (automação, análise de dados e APIs com **FastAPI**), **Java** (Swing, POO e **Spring Boot**), aplicações web com **HTML**, **CSS** e **JavaScript**, além de banco de dados com **MySQL** e **PostgreSQL** — sempre buscando resolver problemas reais com código limpo e eficiente.
 
 [![Gmail Badge](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:seuemail@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/seulinkedin)
+[![LinkedIn Badge]([https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/gabriel-afonso-da-silva-6b88a7267/))
 
 ---
 
