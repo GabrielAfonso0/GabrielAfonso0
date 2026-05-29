@@ -10,8 +10,6 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
-### 🤖 Linguagens e Tecnologias
 <img align="left" alt="Python" width="36px" src="https://skillicons.dev/icons?i=python" />
 <img align="left" alt="Java" width="36px" src="https://skillicons.dev/icons?i=java" />
 <img align="left" alt="JavaScript" width="36px" src="https://skillicons.dev/icons?i=js" />
