@@ -10,20 +10,12 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <img align="left" alt="Python" width="36px" src="https://skillicons.dev/icons?i=python" />
 <img align="left" alt="Java" width="36px" src="https://skillicons.dev/icons?i=java" />
 <img align="left" alt="JavaScript" width="36px" src="https://skillicons.dev/icons?i=js" />
 <img align="left" alt="HTML5" width="36px" src="https://skillicons.dev/icons?i=html" />
 <img align="left" alt="CSS3" width="36px" src="https://skillicons.dev/icons?i=css" />
 <img align="left" alt="MySQL" width="36px" src="https://skillicons.dev/icons?i=mysql" />
-<img align="left" alt="Git" width="36px" src="https://skillicons.dev/icons?i=git" />
-<img align="left" alt="VS Code" width="36px" src="https://skillicons.dev/icons?i=vscode" />
-
-<br clear="left"/>
-
----
-
 ### 📌 Projetos em Destaque
 
 **🦷 SorrisoPerfeito — Sistema de Gestão Odontológica**
